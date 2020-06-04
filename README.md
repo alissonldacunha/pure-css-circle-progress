@@ -1,3 +1,3 @@
-# pure-css-circle-progess
+# Pogress Circle with pure CSS
 
 <img src=".github/pure-css-circle-progress.gif">
